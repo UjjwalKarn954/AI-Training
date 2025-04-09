@@ -10,7 +10,7 @@ Learning AI to become DevOps With AI expertise.
 ## ✅ Phase 1: AI/ML Foundations (3-4 weeks)
 
 ### 🧠 Concepts to Learn:
-- [*] What is AI / Machine Learning?
+- [X] What is AI / Machine Learning?
 - [ ] Supervised vs Unsupervised Learning
 - [ ] What is a model, training, testing, inference?
 - [ ] Overfitting vs underfitting
