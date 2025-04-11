@@ -13,7 +13,7 @@ Learning AI to become DevOps With AI expertise.
 - [X] What is AI / Machine Learning?
 - [X] Supervised vs Unsupervised Learning
 - [X] What is a model, training, testing, inference?
-- [ ] Overfitting vs underfitting
+- [X] Overfitting vs underfitting
 - [ ] Basics of neural networks (optional for now)
 
 ### 🛠 Tools:
