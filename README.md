@@ -11,8 +11,8 @@ Learning AI to become DevOps With AI expertise.
 
 ### 🧠 Concepts to Learn:
 - [X] What is AI / Machine Learning?
-- [ ] Supervised vs Unsupervised Learning
-- [ ] What is a model, training, testing, inference?
+- [X] Supervised vs Unsupervised Learning
+- [X] What is a model, training, testing, inference?
 - [ ] Overfitting vs underfitting
 - [ ] Basics of neural networks (optional for now)
 
